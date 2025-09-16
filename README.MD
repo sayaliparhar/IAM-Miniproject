@@ -14,7 +14,8 @@ Configured MFA (Multi-Factor Authentication) for additional security.
 Added role assumption via STS for temporary permissions.
 
 ### 🏗️ Architecture
-<p align="center"> <img width="700" alt="IAM Architecture" src="https://github.com/sayaliparhar/IAM-Miniproject/blob/master/Architecture/IAM-Architecture.png?raw=true" /> </p>
+<p align="center"> <img width="500" alt="IAM Architecture" src="https://github.com/sayaliparhar/IAM-Miniproject/blob/master/Architecture/IAM-Architecture.png?raw=true" /> </p>
+
 
 ### 👥 Teams & Permissions
 
